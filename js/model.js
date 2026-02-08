@@ -981,6 +981,16 @@ var actividades = [
         descripcion: "Reunión inicial del subgrupo."
     },
     {
+        nombre: "Reunión del subgrupo de trabajo 5.1, Recopilación y actualización de normativa y protocolos UGR", 
+        grupo: "Grupo 5, subgrupo 5.1",
+        ponente: "Alberto Martín Molina",
+        fecha: "2026-02-09",
+        horaInicio: "12:00",
+        horaFin: "13:00",
+        lugar: "Aula A20",
+        descripcion: "Reunión de continuación de trabajo del subgrupo."
+    },
+    {
         nombre: "Reunión del subgrupo de trabajo 5.2, Mapeo de espacios adaptados", 
         grupo: "Grupo 5, subgrupo 5.2",
         ponente: "María José Cáceres Granados",

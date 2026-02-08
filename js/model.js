@@ -991,6 +991,16 @@ var actividades = [
         descripcion: "Reunión inicial del subgrupo."
     }, 
     {
+        nombre: "Reunión del subgrupo de trabajo 5.2, Mapeo de espacios adaptados", 
+        grupo: "Grupo 5, subgrupo 5.2",
+        ponente: "María José Cáceres Granados",
+        fecha: "2026-02-25",
+        horaInicio: "10:30",
+        horaFin: "11:30",
+        lugar: "Aula C11",
+        descripcion: "Diseño final de la encuesta y organización para comenzar con el mapeo."
+    }, 
+    {
         nombre: "Quartificando tus cuadernos de jupyter y markdown", 
         grupo: "Grupo 4 (2025/26)",
         ponente: "Pedro A. García Sánchez",

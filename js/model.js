@@ -915,8 +915,8 @@ var actividades = [
         grupo: "Grupo 2 (2025/26)",
         ponente: "Almudena Rivadeneyra García",
         fecha: "2026-02-12",
-        horaInicio: "10:00",
-        horaFin: "11:00",
+        horaInicio: "11:00",
+        horaFin: "12:00",
         lugar: "A14",
         descripcion: "Algunos miembros del grupo compartirán cómo están aplicando distintas metodologías activas en sus clases y qué resultados están observando."
     },
@@ -1039,8 +1039,17 @@ var actividades = [
         horaFin: "13:00",
         lugar: "Sala de Audiovisuales de la Faculta de Ciencias",
         descripcion: "Segunda sesión del taller sobre Introducción a técnicas de expresión no verbal a cargo de la profesora de teatro María Isabel Garrido-Asenjo, y en él se abordarán técnicas para el uso del espacio y la presencia, el uso del movimiento como recurso y de la voz y el cuerpo como canales de comunicación, así como el empleo del silencio en comunicación."
+    },
+    {
+        nombre: "Reunión inicial grupo 1", 
+        grupo: "Grupo 1 (2025/26)",
+        ponente: "Francisco David Carmona López",
+        fecha: "2026-02-17",
+        horaInicio: "12:00",
+        horaFin: "13:00",
+        lugar: "Aula A16",
+        descripcion: "Reunión de segimiento del grupo: propuesta de actividades, actuaciones de gamificación ya realizadas y planificaciómn para el segundo semestre."
     }
-
     /*
     // Plantilla para próximas actividades
     // No olvidar poner la coma después de la última actividad publicada

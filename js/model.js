@@ -1041,7 +1041,7 @@ var actividades = [
         descripcion: "Segunda sesión del taller sobre Introducción a técnicas de expresión no verbal a cargo de la profesora de teatro María Isabel Garrido-Asenjo, y en él se abordarán técnicas para el uso del espacio y la presencia, el uso del movimiento como recurso y de la voz y el cuerpo como canales de comunicación, así como el empleo del silencio en comunicación."
     },
     {
-        nombre: "Reunión inicial grupo 1", 
+        nombre: "Reunión de seguimiento del grupo 1", 
         grupo: "Grupo 1 (2025/26)",
         ponente: "Francisco David Carmona López",
         fecha: "2026-02-17",

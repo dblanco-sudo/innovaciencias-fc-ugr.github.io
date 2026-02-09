@@ -1047,7 +1047,7 @@ var actividades = [
         fecha: "2026-02-17",
         horaInicio: "12:00",
         horaFin: "13:00",
-        lugar: "Aula A16",
+        lugar: "Aula A13",
         descripcion: "Reunión de segimiento del grupo: propuesta de actividades, actuaciones de gamificación ya realizadas y planificaciómn para el segundo semestre."
     }
     /*

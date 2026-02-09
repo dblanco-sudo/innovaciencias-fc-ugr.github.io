@@ -915,8 +915,8 @@ var actividades = [
         grupo: "Grupo 2 (2025/26)",
         ponente: "Almudena Rivadeneyra García",
         fecha: "2026-02-12",
-        horaInicio: "10:00",
-        horaFin: "11:00",
+        horaInicio: "11:00",
+        horaFin: "12:00",
         lugar: "A14",
         descripcion: "Algunos miembros del grupo compartirán cómo están aplicando distintas metodologías activas en sus clases y qué resultados están observando."
     },
@@ -981,6 +981,16 @@ var actividades = [
         descripcion: "Reunión inicial del subgrupo."
     },
     {
+        nombre: "Reunión del subgrupo de trabajo 5.1, Recopilación y actualización de normativa y protocolos UGR", 
+        grupo: "Grupo 5, subgrupo 5.1",
+        ponente: "Alberto Martín Molina",
+        fecha: "2026-02-09",
+        horaInicio: "12:00",
+        horaFin: "13:00",
+        lugar: "Aula A20",
+        descripcion: "Reunión de continuación de trabajo del subgrupo."
+    },
+    {
         nombre: "Reunión del subgrupo de trabajo 5.2, Mapeo de espacios adaptados", 
         grupo: "Grupo 5, subgrupo 5.2",
         ponente: "María José Cáceres Granados",
@@ -989,6 +999,16 @@ var actividades = [
         horaFin: "13:00",
         lugar: "Aula A20",
         descripcion: "Reunión inicial del subgrupo."
+    }, 
+    {
+        nombre: "Reunión del subgrupo de trabajo 5.2, Mapeo de espacios adaptados", 
+        grupo: "Grupo 5, subgrupo 5.2",
+        ponente: "María José Cáceres Granados",
+        fecha: "2026-02-25",
+        horaInicio: "10:30",
+        horaFin: "11:30",
+        lugar: "Aula C11",
+        descripcion: "Diseño final de la encuesta y organización para comenzar con el mapeo."
     }, 
     {
         nombre: "Quartificando tus cuadernos de jupyter y markdown", 
@@ -1019,8 +1039,17 @@ var actividades = [
         horaFin: "13:00",
         lugar: "Sala de Audiovisuales de la Faculta de Ciencias",
         descripcion: "Segunda sesión del taller sobre Introducción a técnicas de expresión no verbal a cargo de la profesora de teatro María Isabel Garrido-Asenjo, y en él se abordarán técnicas para el uso del espacio y la presencia, el uso del movimiento como recurso y de la voz y el cuerpo como canales de comunicación, así como el empleo del silencio en comunicación."
+    },
+    {
+        nombre: "Reunión de seguimiento del grupo 1", 
+        grupo: "Grupo 1 (2025/26)",
+        ponente: "Francisco David Carmona López",
+        fecha: "2026-02-17",
+        horaInicio: "12:00",
+        horaFin: "13:00",
+        lugar: "Aula A16",
+        descripcion: "Reunión de segimiento del grupo: propuesta de actividades, actuaciones de gamificación ya realizadas y planificaciómn para el segundo semestre."
     }
-
     /*
     // Plantilla para próximas actividades
     // No olvidar poner la coma después de la última actividad publicada

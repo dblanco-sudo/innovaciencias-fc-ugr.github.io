@@ -1049,6 +1049,16 @@ var actividades = [
         horaFin: "13:00",
         lugar: "Aula A13",
         descripcion: "Reunión de segimiento del grupo: propuesta de actividades, actuaciones de gamificación ya realizadas y planificaciómn para el segundo semestre."
+    },
+    {
+        nombre: "Desing Thinking", 
+        grupo: "Grupo 2 (2025/26)",
+        ponente: "Ana Isabel Rodríguez Martínez",
+        fecha: "2026-03-13",
+        horaInicio: "11:30",
+        horaFin: "13:30",
+        lugar: "C12",
+        descripcion: "Taller sobre Design Thinking impartida por  Ana Isabel Rodríguez Martínez del equipo de UGR emprendedora."
     }
     /*
     // Plantilla para próximas actividades

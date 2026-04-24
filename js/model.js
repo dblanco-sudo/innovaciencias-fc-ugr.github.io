@@ -1121,12 +1121,12 @@ var actividades = [
         descripcion: "Reunión del seguimiento del subgrupo, en el que se estudiarán los resultados de las encuestas realizadas a estudiantes con NEAE y se propondrán actividades a partir de estos resultados."
     },
     {
-        nombre: "Cómo articular acciones de cooperación a través de propuestas para la realización de TFGs o TFMs", 
+        nombre: "Como articular acciones de cooperación desde el ámbito universitario", 
         grupo: "Grupo 6 (2025/26)",
         ponente: "Jesús Garrido Manrique",
         fecha: "2026-04-30",
-        horaInicio: "12:00",
-        horaFin: "13:00",
+        horaInicio: "12:30",
+        horaFin: "13:30",
         lugar: "Aula A14",
         descripcion: "Primera sesión sobre cómo articular acciones de cooperación a través de propuestas para la realización de TFGs o TFMs y oportunidades, convocatorias y características de proyectos de cooperación en la UGR."
     }   
